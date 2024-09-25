@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-  @layer base {
-    body {
-        font-family: url(https://github.com/IvanZaja/GoogleStoreReplica/blob/10661a73a3aa06f975e4d9ee7733fde292dab9bb/public/fonts/GoogleSans-Regular.ttf), Arial, sans-serif;
-    }
+
+  body {
+    font-family: "Roboto", "Arial", sans-serif;
+    color: #3c4043;
   }
 
 .navbar-font {
