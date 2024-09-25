@@ -4,11 +4,12 @@
 
   @layer base {
     body {
-        font-family: "Google Sans", Arial, sans-serif;
+        font-family: url(https://flutter.googlesource.com/gallery-assets/+/refs/heads/master/lib/fonts/GoogleSans-Bold.ttf), Arial, sans-serif;
     }
   }
 
 .navbar-font {
+    font-family: url(https://github.com/IvanZaja/GoogleStoreReplica/blob/84358113c2b760c4053903f2c025fd812d40c70e/public/fonts/googleSansDisplay.woff2), Arial, sans-serif;
     color: #3c4043;
     line-height: 20px;
     font-size: 14px;
